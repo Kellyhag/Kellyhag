@@ -1,5 +1,7 @@
 ### Hi there 👋
+Here are three maps that I made in Fundamentals to GIS
 
+You will find three maps that I made in Fundamentals to GIS
 <!--
 **Kellyhag/Kellyhag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
